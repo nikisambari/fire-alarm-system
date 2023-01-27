@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins'); 
+@import url('https://fonts.googleapis.com/css?family=Bungee'); 
+
+html,body{
+    margin: 0;
+    padding: 0;
+}
+.css-1kyxreq {
+    display: flex;
+    flex-flow: row wrap;
+    row-gap: 1rem;
+    justify-content: center;
+}
+
+.heading{
+    font-family: 'Bungee';
+    font-weight: 900;
+    color:rgb(191, 23, 23);
+    text-shadow: 1px 5px 3px rgb(248, 162, 42);
+    text-align: center;
+}
+
