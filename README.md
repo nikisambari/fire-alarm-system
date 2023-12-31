@@ -4,7 +4,8 @@
 
 The Python-based Fire Alarm System is an innovative solution designed to detect and alert users to the presence of fire in real-time. Developed with the goal of ensuring the safety of individuals and properties, this system leverages the power of Python programming to create a robust and efficient fire detection mechanism.
 # Snapshot
-![fire-alarm-system1](https://github.com/nikisambari/fire-alarm-system/assets/51022485/9489b909-2a76-4407-b6b6-bcb7395dfc1d)
+
+![fire-alarm-system1](https://github.com/nikisambari/fire-alarm-system/assets/51022485/3f0af53c-e1ff-4819-a405-b033d2873f33)
 
 ## Live Preview
 https://fire-alarm-system-by-nikki.streamlit.app/ 
