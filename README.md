@@ -28,7 +28,7 @@ pip install -r requirements.txt
 ```
 **3. Run the Application:**
 ```bash
-streamlit run your_app.py
+streamlit run FireDetection.py
 ```
 **4. Open the Application in Your Browser:**
 Open your web browser and navigate to http://localhost:8501.
